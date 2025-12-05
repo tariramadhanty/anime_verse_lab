@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # anime_verse
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# anime_verse_lab
+>>>>>>> f09fad4b58d453d6c6ae566398a101004ece7623
